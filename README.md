@@ -8,4 +8,4 @@ pkg install git
 git clone https://github.com/OWIXD/Brutev1
 cd Brutev1
 git pull 
-python Brutev1.py
+# python Brutev1.py
