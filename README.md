@@ -1,4 +1,4 @@
-## INTALL BAHAN DI BAWAH $$
+INTALL BAHAN DI BAWAH 
 
 $ termux-setup-storage
 $ pkg update && pkg upgrade
