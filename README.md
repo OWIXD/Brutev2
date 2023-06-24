@@ -1,3 +1,5 @@
+## INSTALL BAHAN DI BAWAH ##
+
 termux-setup-storage
 
 pkg update && pkg upgrade
@@ -11,6 +13,7 @@ pip install requests
 pip install rich
 
 pkg install git 
+
 git clone https://github.com/OWIXD/Brutev1
 
 cd Brutev1
