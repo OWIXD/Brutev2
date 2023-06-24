@@ -1,9 +1,7 @@
-INTALL BAHAN DI BAWAH 
-
 $ termux-setup-storage
 $ pkg update && pkg upgrade
 $ pkg install python
-$ pkg install python-pip 
+$ pkg instinstallall python-pip 
 $ pip install requests
 $ pip install rich
 $ pkg install git 
