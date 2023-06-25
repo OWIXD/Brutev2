@@ -14,10 +14,10 @@ pip install rich
 
 pkg install git 
 
-git clone https://github.com/OWIXD/Brutev1
+git clone https://github.com/OWIXD/Brutev2
 
-cd Brutev1
+cd Brutev2
 
 git pull 
 
-python Brutev1.py
+python Brutev2.py
